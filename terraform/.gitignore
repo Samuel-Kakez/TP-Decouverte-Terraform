@@ -1,0 +1,7 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+tp_azure
+tp_azure.pub
