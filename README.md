@@ -1,4 +1,4 @@
-# Compte Rendu : Déploiement de VMs Azure avec terraform
+# Compte Rendu : Déploiement de 2 VMs Azure via terraform (avec LoadBalancer)
 ## Samuel KAKEZ
 
 #### 1. Installation des outils 
